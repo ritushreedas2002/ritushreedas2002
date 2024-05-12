@@ -1,27 +1,29 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align="right" alt="Coding" width="500" height="320" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"> 
-<h1 align="center"> I'm Ritushree Das</h1>
-<h3 align="center">A passionate competitive programmer from India.</h3>
-<br/>I am a B.Tech undergrad at Academy of Technology, Hooghly pursuing Computer Science & Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
+<img align="right" alt="Coding" width="500" height="320" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+<h1 align="center">I'm Ritushree Das</h1>
+<h3 align="center">A passionate MERN stack developer from India.</h3>
+<br/>I am a B.Tech undergrad at Academy of Technology, Hooghly, pursuing Computer Science & Engineering. I have a deep interest in software development, especially in web technologies. Skilled in the MERN stack, I build interactive and efficient web applications. Additionally, I am proficient in using Figma for designing user interfaces, enhancing user experience with visually appealing designs.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritushreedas2002&label=Visitors&color=0e75b6&style=flat" alt="neo-deus" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritushreedas2002&label=Visitors&color=0e75b6&style=flat" alt="ritushreedas2002" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritushreedas2002" alt="neo-deus" /></a> </p> -->
+<!-- Uncomment below if you want to use GitHub trophies -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritushreedas2002" alt="ritushreedas2002" /></a> </p> -->
 
-## About me(Intro) 📖:
-- 🔭 I’m currently working on **DSA.**
+## About me (Intro) 📖:
+- 🔭 I’m currently working on **expanding my full stack development skills.**
 
-- 🌱 I’m currently learning **Web Development.**
+- 🌱 I’m currently learning **advanced MERN stack techniques and improving my UI/UX design skills with Figma.**
 
-- 👯 I’m looking to collaborate on **Open Source Contributions.**
+- 👯 I’m looking to collaborate on **innovative web development projects and open source contributions.**
 
-- 🤝 I’m looking for help in **building projects.**
+- 🤝 I’m looking for help with **advanced concepts in backend optimization and state management in React applications.**
 
-- 💬 Ask me about **DSA.**
+- 💬 Ask me about **anything related to MERN stack development, Figma, or data structures and algorithms.**
 
-- ⚡ Fun fact **Laugh aloud sometimes, yeah, that's it🤣.**
+- ⚡ Fun fact: **I laugh out loud sometimes—yes, just randomly. It keeps the mood light! 🤣**
 
 <br/>
+
 
 ![](https://activity-graph.herokuapp.com/graph?username=ritushreedas2002&theme=dracula&hide_border=true&area=true)
 <br/>
