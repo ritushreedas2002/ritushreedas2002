@@ -85,7 +85,7 @@
 <table>
     <tr>
 <!--         <td>
-            <img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=1&width=500" align="center"/>
+            <img src="https://spotify-recently-played-readme.vercel.app/api?user=ritushreedas2002&count=1&width=500" align="center"/>
         </td> -->
         <td rowspan=2>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritushreedas2002&theme=dark" align="center"/></td>
@@ -94,9 +94,9 @@
         <td><img src="https://github-readme-stats.vercel.app/api?username=ritushreedas2002&count_private=true&theme=dark&show_icons=true" align="center"/></td>
     </tr>
 </table>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritushreedas2002&show_icons=true&locale=en&layout=compact" alt="neo-deus" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritushreedas2002&show_icons=true&locale=en&layout=compact" alt="ritushreedas2002" /></p> -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neo-deus&show_icons=true&locale=en" alt="neo-deus" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritushreedas2002&show_icons=true&locale=en" alt="ritushreedas2002" /></p> -->
 
 <h2 align="center">My Contribution Streak !! :fire:</h2> 
 <p align="center">
@@ -104,4 +104,4 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritushreedas2002&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
 </p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritushreedas2002&" alt="neo-deus" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritushreedas2002&" alt="ritushreedas2002" /></p> -->
