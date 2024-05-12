@@ -34,7 +34,7 @@
   </a>
   <!-- LeetCode Link -->
   <a href="https://leetcode.com/u/ritushreedas20027/" target="_blank">
-    <img align="center" src="https://cp-algorithms.com/favicon.ico" alt="ritushreedas20027" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritushreedas20027" height="30" width="40" />
   </a>
 </p>
 
