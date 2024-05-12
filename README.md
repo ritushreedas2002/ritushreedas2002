@@ -16,12 +16,6 @@
 
 - 👯 I’m looking to collaborate on **innovative web development projects and open source contributions.**
 
-- 🤝 I’m looking for help with **advanced concepts in backend optimization and state management in React applications.**
-
-- 💬 Ask me about **anything related to MERN stack development, Figma, or data structures and algorithms.**
-
-- ⚡ Fun fact: **I laugh out loud sometimes—yes, just randomly. It keeps the mood light! 🤣**
-
 <br/>
 
 
