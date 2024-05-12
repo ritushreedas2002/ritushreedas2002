@@ -4,9 +4,9 @@
 <h3 align="center">A passionate competitive programmer from India.</h3>
 <br/>I am a B.Tech undergrad at Academy of Technology, Hooghly pursuing Computer Science & Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neo-deus&label=Visitors&color=0e75b6&style=flat" alt="neo-deus" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritushreedas2002&label=Visitors&color=0e75b6&style=flat" alt="neo-deus" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neo-deus" alt="neo-deus" /></a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritushreedas2002" alt="neo-deus" /></a> </p> -->
 
 ## About me(Intro) 📖:
 - 🔭 I’m currently working on **DSA.**
@@ -23,7 +23,7 @@
 
 <br/>
 
-![](https://activity-graph.herokuapp.com/graph?username=neo-deus&theme=dracula&hide_border=true&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=ritushreedas2002&theme=dracula&hide_border=true&area=true)
 <br/>
 
 <h3 align="left">Connect with me:</h3>
@@ -77,7 +77,7 @@
 
 <h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=neo-deus&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ritushreedas2002&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 <!-- 📈 my github stats -->
@@ -88,20 +88,20 @@
             <img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=1&width=500" align="center"/>
         </td> -->
         <td rowspan=2>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo-deus&theme=dark" align="center"/></td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritushreedas2002&theme=dark" align="center"/></td>
     </tr>
     <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=neo-deus&count_private=true&theme=dark&show_icons=true" align="center"/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=ritushreedas2002&count_private=true&theme=dark&show_icons=true" align="center"/></td>
     </tr>
 </table>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neo-deus&show_icons=true&locale=en&layout=compact" alt="neo-deus" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritushreedas2002&show_icons=true&locale=en&layout=compact" alt="neo-deus" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neo-deus&show_icons=true&locale=en" alt="neo-deus" /></p> -->
 
 <h2 align="center">My Contribution Streak !! :fire:</h2> 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=neo-deus&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritushreedas2002&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
 </p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neo-deus&" alt="neo-deus" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritushreedas2002&" alt="neo-deus" /></p> -->
