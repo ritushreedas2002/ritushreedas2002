@@ -1,5 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align="right" alt="Coding" width="500" height="320" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+<img align="right" alt="Coding" width="500" height="320" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200114192751/How-to-Learn-Programming.png">
 <h1 align="center">I'm Ritushree Das</h1>
 <h3 align="center">A passionate MERN stack developer from India.</h3>
 <br/>I am a B.Tech undergrad at Academy of Technology, Hooghly, pursuing Computer Science & Engineering. I have a deep interest in software development, especially in web technologies. Skilled in the MERN stack, I build interactive and efficient web applications. Additionally, I am proficient in using Figma for designing user interfaces, enhancing user experience with visually appealing designs.
